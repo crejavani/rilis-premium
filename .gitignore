@@ -15,6 +15,7 @@ rector.php
 .htaccess
 *.sql
 mitra
+favicon.ico
 
 # Abaikan file cache milik phpintel (plugin sublime text)
 .phpintel/*
